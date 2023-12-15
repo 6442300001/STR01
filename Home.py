@@ -2,7 +2,9 @@ import streamlit as st
 
 st.header("karakada premkit")
 
-
+st.title('การทดสอบเขียนเว็บด้วย Python')
+st.subheader('สาขาวิชาเทคโนโลยี')
+st.markdown("----")
 
 
 col1, col2 = st.columns(2)
